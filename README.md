@@ -813,6 +813,12 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### Corellis
+
+<div><a href="https://github.com/CorellisOrg/corellis"><img src="https://img.shields.io/github/stars/CorellisOrg/corellis?style=social" alt="GitHub stars"></a> <a href="https://github.com/CorellisOrg/corellis"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a></div>
+<p>Corellis is an open-source multi-agent governance framework for OpenClaw. It provides goal decomposition (GoalOps), 4-layer memory system, fleet-wide learning, and approval workflows for managing 20+ agent fleets in production.</p>
+
+
 ### Cosmo
 <div><a href="https://meetcosmo.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
